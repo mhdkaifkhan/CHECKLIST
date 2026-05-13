@@ -28,7 +28,19 @@
 - **Two Themes** — Dark (matte black/gold matrix) + Light (royal white/pink floral)
 - **History Dashboard** — Browse past days, view sessions, read old notes
 - **Mobile-first** — Fully responsive with bottom navigation
+## Screenshots
 
+### Dashboard
+![Dashboard](./screenshots/dashboard-dark.png)
+
+### Focus Mode
+![Focus Mode](./screenshots/focus-mode.png)
+
+### Light Theme
+![Light Theme](./screenshots/light-theme.png)
+
+### Settings
+![Settings](./screenshots/settings.png)
 ---
 
 ## Quick Start
