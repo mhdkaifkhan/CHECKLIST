@@ -6,7 +6,7 @@ const generateToken = (userId) =>
 
 const googleCallback = (req, res) => {
   const token = generateToken(req.user._id);
-  const frontendUrl = process.env.FRONTEND_URL || 'http://localhost:5173';
+  const frontendUrl = process.env.FRONTEND_URL || 'https://checklist-ten-sigma.vercel.app';
   res.redirect(`${frontendUrl}/auth/callback?token=${token}`);
 };
 

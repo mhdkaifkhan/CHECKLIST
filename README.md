@@ -106,7 +106,7 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 
 # Frontend URL
-FRONTEND_URL=http://localhost:5173
+FRONTEND_URL=https://checklist-ten-sigma.vercel.app
 ```
 
 ---
@@ -153,7 +153,7 @@ cd frontend
 npm run dev
 ```
 
-- Frontend: http://localhost:5173
+- Frontend: https://checklist-ten-sigma.vercel.app
 - Backend:  http://localhost:5000
 - Health:   http://localhost:5000/health
 
